@@ -12,7 +12,7 @@ To really use iowamp, you will also need websocket.io
 
 ## Installing with [NPM](http://npmjs.org) ##
 ```
-npm install modelize
+npm install iowamp
 ```
 
 ## Attach iowamp to a websocket.io server ##
