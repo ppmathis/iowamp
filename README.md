@@ -7,8 +7,7 @@ Apache License (version 2)
 
 ## Prerequisites ##
 iowamp itselfs requires version 0.6.x of NodeJS or higher. If you want to run the tests, you'll want Vows.
-
-To really use iowamp, you will also need websocket.io
+To really use iowamp, you will also need [WebSocket.IO](http://github.com/learnboost/websocket.io).
 
 ## Installing with [NPM](http://npmjs.org) ##
 ```
