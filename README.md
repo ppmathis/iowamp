@@ -1,6 +1,10 @@
 # iowamp #
 
-iowamp is a WAMP™ server in NodeJS. Currently it only supports basic RPC calls, but pub/sub support is coming. It attaches to [WebSocket.IO](http://github.com/learnboost/websocket.io).
+iowamp is a WAMP™ server in NodeJS. Currently it only supports basic RPC calls, but pub/sub support is coming.
+It attaches to [WebSocket.IO](http://github.com/learnboost/websocket.io).
+
+## What is WAMP™? ##
+[WebSocket Application Messaging Protocol (WAMP)](http://www.tavendo.de/autobahn/protocol.html) is a protocol for RPC & PubSub support, based on WebSockets. Technically, WAMP is an officially registered WebSocket subprotocol proposed by Tavendo.
 
 ## License ##
 Apache License (version 2)
