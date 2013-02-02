@@ -14,7 +14,7 @@
             "io",
             "wamp"
     ],
-    "version": "0.1.0",
+    "version": "0.1.1",
     "author": "Pascal Mathis <dev@snapserv.net> (http://snapserv.net)",
     "main": "./lib/index.js",
     "repository": {
