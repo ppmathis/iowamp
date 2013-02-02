@@ -1,0 +1,30 @@
+{
+    "name": "iowamp",
+    "description": "WAMP™ server in NodeJS",
+    "keywords": [
+            "websocket",
+            "websockets",
+            "application",
+            "messaging",
+            "protocol",
+            "rpc",
+            "remote",
+            "procedure",
+            "call",
+            "io",
+            "wamp"
+    ],
+    "version": "0.1.0",
+    "author": "Pascal Mathis <dev@snapserv.net> (http://snapserv.net)",
+    "main": "./lib/index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/NeoXiD/iowamp"
+    },
+    "dependencies": {
+        "debug": "*"
+    },
+    "engines": {
+        "node": "*"
+    }
+}
